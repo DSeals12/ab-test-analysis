@@ -105,3 +105,5 @@ streamlit run app/streamlit_app.py
 - Novelty effect identification via day-by-day metric time series
 - Guardrail metric monitoring and multiple testing correction
 - Structured ship/no-ship recommendation with quantified uncertainty
+
+📊 [View rendered notebook with charts](https://nbviewer.org/github/DSeals12/ab-test-analysis/blob/main/notebooks/ab_test_analysis.ipynb)
