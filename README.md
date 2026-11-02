@@ -1,6 +1,6 @@
 # A/B Test Analysis — Feed Ranking Algorithm Change
 
-**Author:** Denzel C. Seals | Senior Data Analyst  
+**Author:** Denzel C. Seals | Senior Analyst - Corporate Development  
 **Domain:** Product Analytics — Experimentation & Causal Inference  
 **Stack:** Python · Pandas · SciPy · Plotly · Streamlit  
 **Scenario:** Simulated Meta-style feed ranking A/B test across 500K users
