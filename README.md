@@ -106,4 +106,4 @@ streamlit run app/streamlit_app.py
 - Guardrail metric monitoring and multiple testing correction
 - Structured ship/no-ship recommendation with quantified uncertainty
 
-📊 [View rendered notebook with charts](https://nbviewer.org/github.com/DSeals12/ab-test-analysis/blob/main/notebooks/ab_test_analysis.ipynb)
+📊 [View rendered notebook with charts](https://nbviewer.org/github/DSeals12/ab-test-analysis/blob/main/notebooks/ab_test_analysis.ipynb)
